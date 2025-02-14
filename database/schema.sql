@@ -1,6 +1,4 @@
 -- Create database (if not exists)
-CREATE DATABASE IF NOT EXISTS
-library_management;
 USE library_management;
 
 -- Table for storing book details
